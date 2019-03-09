@@ -42,8 +42,32 @@ export const FooterTemplate = ({ data }) => {
         </div>
         <div className="footer-bottom">
           <div className="footer-flag">
-            <span role="img" aria-label="Made in Zimbabwe">
+            {/* <span role="img" aria-label="Made in Zimbabwe">
               zw
+            </span> */}
+            <span>
+              Made with{" "}
+              <span role="img" aria-label="love">
+                ❤️
+              </span>{" "}
+              by the{" "}
+              <a
+                className="footer-link"
+                href="https://twitter.com/forloopZimbabwe"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                forloopZimbabwe{" "}
+              </a>
+              team powered by{" "}
+              <a
+                className="footer-link"
+                href="https://forloop.africa"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                forloopAfrica
+              </a>
             </span>
           </div>
         </div>
