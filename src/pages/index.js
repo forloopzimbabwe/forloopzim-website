@@ -59,7 +59,7 @@ export const HomePageTemplate = ({ home, upcomingMeetup = null }) => {
               <div className="upcomingMeetup-mapWrapper">
                 <Map
                   isMarkerShown
-                  googleMapURL="https://maps.googleapis.com/maps/api/js?key=AIzaSyBTxauB_VWpo0_8hWELlE3pN59uuHzxD-8&v=3.exp&libraries=geometry,drawing,places"
+                  googleMapURL="https://maps.googleapis.com/maps/api/js?key=AIzaSyBXNu0BoNIwyetY9cjDBxvvfbfbMglKufg-8&v=3.exp&libraries=geometry,drawing,places"
                   loadingElement={<div style={{ height: `100%` }} />}
                   containerElement={<div style={{ height: `100%` }} />}
                   mapElement={<div style={{ height: `100%` }} />}
