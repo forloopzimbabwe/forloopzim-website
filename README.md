@@ -1,10 +1,43 @@
-# Gatsby & Netlify CMS Example
+<p align="center">
+  <a href="#">
+    <img width=100% src="src/resources/images/forloop_logo.jpeg">
+  </a>
+</p>
 
-An example website built using Gatsby V2 and Netlify CMS. The website is a fake JavaScript meetup site that lists upcoming meetups, information about the meetup group, as well as a list of past meetups.
+<h1 align="center"> <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ff-1f1fc.png?v8" /> forloopZimbabwe  <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ff-1f1fc.png?v8" /> </h1>
 
-The purpose of the repository is to provide an idea of how a Gatsby project is structured with Netlify CMS. You can easily deploy your own instance of this application by clicking the button below:
+<h2 align="center"> ️🚀 Organisers 🚀 </h2>
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/robertcoopercode/gatsby-netlify-cms)
+| [<img src="https://avatars2.githubusercontent.com/u/5455509?s=400&v=4" width="150px;"/><br /><sub><b>Adonis Shingi Rumbwere</b></sub>](https://github.com/TheDoer)<br /> | [<img src="https://avatars0.githubusercontent.com/u/806774?s=400&v=4" width="150px;"/><br /><sub><b>Lennex Zinyando</b></sub>](https://github.com/zinyando)<br /> | [<img src="https://avatars3.githubusercontent.com/u/6072892?s=400&v=4" width="150px;"/><br /><sub><b>Terry Mafura</b></sub>](https://github.com/maffsojah)<br /> |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+
+
+<br>
+
+<h2 align="center"> ️💻 Thank you all 💻 </h2>
+
+<!-- ALL-ATTENDEES-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+|           
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------: |
+
+<!-- ALL-ATTENDEES-LIST:END -->
+
+<h1 align="center"> 😎 follow us on Twitter  😎 </h1>
+
+<div align="center">
+Find out more about forloopZimbabwe on Twitter:
+<br>
+<br>
+  <strong><a href="https://twitter.com/forloopZimbabwe">@forloopZimbabwe </a> I  </strong>
+  <strong><a href="https://twitter.com/search?q=%23forloopZimbabwe&src=typd">#forLoopZimbabwe</a></strong>
+</div>
+
+# forloopzim-website project
+
+This was built using Gatsby V2 and Netlify CMS.
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/forloopzimbabwe/forloopzim-website)
 
 ## Local Development
 
@@ -32,6 +65,7 @@ $ yarn serve
 
 For details on how to configure the CMS, take a look at the [Netlify CMS Docs](https://www.netlifycms.org/docs/intro).
 
-## Useful Ressources
+## Useful Resources
+
 - ["Official" Gatsby and Netlify CMS starter](https://github.com/netlify-templates/gatsby-starter-netlify-cms)
-This starter includes a blog built with Gatsby and Netlify CMS. It was actually used as the starting off point for this repository.
+  This starter includes a blog built with Gatsby and Netlify CMS. It was actually used as the starting off point for this repository.
