@@ -42,8 +42,8 @@ export const FooterTemplate = ({ data }) => {
         </div>
         <div className="footer-bottom">
           <div className="footer-flag">
-            <span role="img" aria-label="Made in Canada">
-              🇨🇦
+            <span role="img" aria-label="Made in Zimbabwe">
+              zw
             </span>
           </div>
         </div>
