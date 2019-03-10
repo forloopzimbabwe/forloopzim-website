@@ -5,7 +5,7 @@ backend:
 media_folder: static/img
 public_folder: /img
 
-display_url: https://gatsby-netlify-cms-example.netlify.com/
+display_url: https://forloopzim-test.netlify.com/
 
 collections:
   - name: "meetups"
