@@ -12,13 +12,7 @@ gallery:
   - image: /img/annie-spratt-608001-unsplash.jpg
     imageAlt: Wakanda developers working together at a table.
 developerGroups: |-
-  ## Other forloopZimbabwe Communities
-
-  * [forloopHarare](https://www.google.com)
-  * [forloopBulawayo](https://www.google.com)
-  * [forloopGweru](https://www.google.com)
-  * [forloopMutare](https://www.google.com)
-  * [forloopHIT](https://www.google.com)
+  ## Other Zimbabwean Tech Communities
 
 organizers:
   title: Organizers
