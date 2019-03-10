@@ -3,6 +3,9 @@
 
 .header {
   height: 450px;
+  background-image: url("../img/hero.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
   background-color: $background-medium;
 
   @include respond-to("medium") {
@@ -25,7 +28,7 @@
   }
 
   &-image {
-    height: 150px;
+    height: 100px;
     margin-bottom: 30px;
 
     @include respond-to("small") {
@@ -34,7 +37,7 @@
     }
 
     @include respond-to("medium") {
-      height: 300px;
+      height: 150px;
     }
   }
 
@@ -47,7 +50,7 @@
 
     @include respond-to("small") {
       flex-basis: 430px;
-      text-align: left;
+      text-align: center;
       width: 50%;
       align-items: flex-start;
     }
@@ -59,7 +62,7 @@
 
   &-taglinePart {
     display: inline;
-    @include title-link-border();
+    // @include title-link-border();
   }
 }
 
@@ -173,6 +176,7 @@
         height: 100%;
       }
     }
+
     &--second {
       background-color: $background-medium;
 

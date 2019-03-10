@@ -3,6 +3,7 @@ import Helmet from "react-helmet";
 import { graphql } from "gatsby";
 
 import "../styles";
+import "./Navbar/styles.scss";
 import { Navbar } from "../components/Navbar";
 import { Footer } from "../components/Footer";
 
@@ -19,6 +20,15 @@ const TemplateWrapper = ({
         content="forloopZimbabwe, zimbabwe, programming, meetup"
       />
     </Helmet>
+    <div class="header-banner">
+      <p>
+        Do you want to speak at forloopZimbabwe?{" "}
+        <a href="https://google.com" target="_blank" rel="noopener noreferrer">
+          Submit your talk
+        </a>
+        .
+      </p>
+    </div>
     <Navbar data={navbarData} />
     <main>{children}</main>
     <Footer data={footerData} />

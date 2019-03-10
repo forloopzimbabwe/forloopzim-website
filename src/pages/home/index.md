@@ -1,10 +1,10 @@
 ---
 templateKey: home-page
 headerImage:
-  image: /img/forloop.svg
+  image: /img/flzim_nocolor.png
   imageAlt: forloopZimbabwe
 title: A community of developers and tech enthusiasts in Zimbabwe
-upcomingMeetupHeading: Upcoming Meetup
+upcomingMeetupHeading: Upcoming Meetup - forloopZimbabwe Launch Event 2019
 noUpcomingMeetupText: Details to be announced.
 mapsNote: Clicking the pin opens Google Maps in a new tab.
 callToActions:
