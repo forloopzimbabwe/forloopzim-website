@@ -12,13 +12,14 @@ gallery:
   - image: /img/annie-spratt-608001-unsplash.jpg
     imageAlt: Wakanda developers working together at a table.
 developerGroups: |-
-  ## Other Wakanda Developer Groups
+  ## Other forloopZimbabwe Communities
 
-  * [React & React Native Meetup](https://www.google.com)
-  * [Python Meetup](https://www.google.com)
-  * [Google Developer Meetup](https://www.google.com)
-  * [Vue.js Meetup](https://www.google.com)
-  * [Ruby Meetup](https://www.google.com)
+  * [forloopHarare](https://www.google.com)
+  * [forloopBulawayo](https://www.google.com)
+  * [forloopGweru](https://www.google.com)
+  * [forloopMutare](https://www.google.com)
+  * [forloopHIT](https://www.google.com)
+
 organizers:
   title: Organizers
   gallery:
@@ -27,7 +28,7 @@ organizers:
       name: Terry Mafura
     - image: /img/lennex-zinyando.jpg
       imageAlt: Lennex Zinyando
-      name: Lenenx Zinyando
+      name: Lennex Zinyando
     - image: /img/adonis-rumbwere.jpg
       imageAlt: Adonis Rumbwere
       name: Adonis Rumbwere

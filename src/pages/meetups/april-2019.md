@@ -1,6 +1,6 @@
 ---
-title: November 2060
-date: 2060-11-09T23:00:00.000Z
+title: forloopZimbabwe Launch Event
+date: 2019-04-13T09:30:00.000Z
 presenters:
   - image: /img/lennex-zinyando.jpg
     links:
@@ -23,8 +23,8 @@ presenters:
       Adonis will take use through the Meteor JavaScript framework and how it’s
       awesome in every way.
 location:
-  mapsLatitude: 64.843779
-  mapsLink: "https://goo.gl/maps/Rm6ihxVrZGK2"
-  mapsLongitude: -147.718189
-  name: Fairbanks Ice Museum
+  mapsLatitude: 31.0593302
+  mapsLink: "https://www.google.com/maps/place/Impact+Hub+Harare/@-17.8160259,31.0264993,13z/data=!4m17!1m11!4m10!1m3!2m2!1d31.0615182!2d-17.8160259!1m5!1m1!1s0x1931a52148bc6d95:0xf5ea36410256962d!2m2!1d31.0615189!2d-17.816029!3m4!1s0x1931a52148bc6d95:0xf5ea36410256962d!8m2!3d-17.816029!4d31.0615189"
+  mapsLongitude: -17.816029
+  name: Impact Hub Harare
 ---
