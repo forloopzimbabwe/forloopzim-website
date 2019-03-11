@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    <img width=100% src="./static/img/forloop_logo.svg">
+    <img width=100% src="./static/img/flzim_small.png">
   </a>
 </p>
 
