@@ -1,14 +1,14 @@
 ---
 templateKey: footer
 logoImage:
-  image: /img/forloop.svg
+  image: /img/flzim_nocolor.png
   imageAlt: forloopZimbabwe
   tagline: A community of developers and tech enthusiasts in Zimbabwe.
 socialLinks:
-  - image: /img/meetup.svg
-    imageAlt: Join us on meetup.com
-    label: meetup.com
-    linkURL: "https://www.meetup.com/"
+  # - image: /img/meetup.svg
+  #   imageAlt: Join us on meetup.com
+  #   label: meetup.com
+  #   linkURL: "https://www.meetup.com/"
   - image: /img/twitter.svg
     imageAlt: Follow us on Twitter
     label: twitter.com
