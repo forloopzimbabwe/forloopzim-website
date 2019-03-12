@@ -23,7 +23,11 @@ const TemplateWrapper = ({
     <div class="header-banner">
       <p>
         Do you want to speak at forloopZimbabwe?{" "}
-        <a href="https://google.com" target="_blank" rel="noopener noreferrer">
+        <a
+          href="https://goo.gl/forms/TKdoprynQ0NfBwEm1"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           Submit your talk
         </a>
         .
