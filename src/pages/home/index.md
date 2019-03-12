@@ -18,11 +18,6 @@ callToActions:
     linkType: external
     linkURL: "mailto:forloopzw@gmail.com"
     subHeading: Want to present at an upcoming meetup? Contact us.
-  thirdCTA:
-    heading: Let's collaborate
-    linkType: external
-    linkURL: "mailto:forloopzw@gmail.com"
-    subHeading: Want to collaborate with us in building forloop? Contact us.
 seo:
   browserTitle: forloopZimbabwe
   description: >-
