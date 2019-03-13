@@ -14,10 +14,10 @@ callToActions:
     linkURL: /meetups
     subHeading: Look at what topics were presented at past meetups.
   secondCTA:
-    heading: Submit your talk
+    heading: Collaborate with us
     linkType: external
     linkURL: "mailto:forloopzw@gmail.com"
-    subHeading: Want to present at an upcoming meetup? Contact us.
+    subHeading: Want to partner with us? We are open to any brilliant ideas             you might have. Email us.
 seo:
   browserTitle: forloopZimbabwe
   description: >-

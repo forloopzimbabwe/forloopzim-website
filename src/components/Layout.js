@@ -20,7 +20,7 @@ const TemplateWrapper = ({
         content="forloopZimbabwe, zimbabwe, programming, meetup"
       />
     </Helmet>
-    <div class="header-banner">
+    <div className="header-banner">
       <p>
         Do you want to speak at forloopZimbabwe?{" "}
         <a
