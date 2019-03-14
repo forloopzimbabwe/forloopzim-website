@@ -46,11 +46,6 @@ export const FooterTemplate = ({ data }) => {
               zw
             </span> */}
             <span>
-              Made with{" "}
-              <span role="img" aria-label="love">
-                ❤️
-              </span>{" "}
-              by the{" "}
               <a
                 className="footer-link"
                 href="https://twitter.com/forloopZimbabwe"
@@ -59,7 +54,7 @@ export const FooterTemplate = ({ data }) => {
               >
                 forloopZimbabwe{" "}
               </a>
-              team powered by{" "}
+              powered by{" "}
               <a
                 className="footer-link"
                 href="https://forloop.africa"
