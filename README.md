@@ -31,14 +31,13 @@ Find out more about forloopZimbabwe on Twitter:
 </div>
 
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2a822426-c082-4ddf-b101-9f3a02e41075/deploy-status)](https://app.netlify.com/sites/forloopzim-test/deploys)
-
 
 # forloopzim-website project
 
 This was built using Gatsby V2 and Netlify CMS.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/forloopzimbabwe/forloopzim-website)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/forloopzimbabwe/forloopzim-website)    [![Netlify Status](https://api.netlify.com/api/v1/badges/2a822426-c082-4ddf-b101-9f3a02e41075/deploy-status)](https://app.netlify.com/sites/forloopzim-test/deploys)
+
 
 ## Local Development
 
