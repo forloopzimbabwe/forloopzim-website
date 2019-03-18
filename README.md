@@ -30,6 +30,10 @@ Find out more about forloopZimbabwe on Twitter:
   <strong><a href="https://twitter.com/search?q=%23forloopZimbabwe&src=typd">#forLoopZimbabwe</a></strong>
 </div>
 
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2a822426-c082-4ddf-b101-9f3a02e41075/deploy-status)](https://app.netlify.com/sites/forloopzim-test/deploys)
+
+
 # forloopzim-website project
 
 This was built using Gatsby V2 and Netlify CMS.
