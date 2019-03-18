@@ -13,6 +13,22 @@ presenters:
   #   text: >-
   #     Lennex is going to guide use on how to build a full stack react and graphql
   #     app using Appolo, GraphQL Yoga, and Prisma.
+  - image: /img/prosper-otemuyiwa.jpg
+    links:
+      - linkText: Prosper's Twitter
+        linkURL: "https://twitter.com/unicodeveloper"
+    name: Prosper Otemuyiwa
+    presentationTitle: Cheating the Developer Experience
+    text: >-
+      Cheating the Developer Experience
+  - image: /img/christian-nwamba.jpg
+    links:
+      - linkText: Christian's Twitter
+        linkURL: "https://twitter.com/codebeast"
+    name: Christian Nwamba
+    presentationTitle: Slashing Perfomance at Peak
+    text: >-
+      Slashing Perfomance at Peak.
   - image: /img/olivier-maniraho.jpg
     links:
       - linkText: Olivier's Github
