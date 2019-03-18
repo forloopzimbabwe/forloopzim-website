@@ -2,17 +2,14 @@
 title: forloopZimbabwe Launch Event
 date: 2019-04-13T08:30:00.000Z
 presenters:
-  # - image: /img/lennex-zinyando.jpg
-  #   links:
-  #     - linkText: Github Example
-  #       linkURL: "https://github.com/"
-  #     - linkText: Conference Talk Recording
-  #       linkURL: "https://github.com/"
-  #   name: Lennex Zinyando
-  #   presentationTitle: Advanced React
-  #   text: >-
-  #     Lennex is going to guide use on how to build a full stack react and graphql
-  #     app using Appolo, GraphQL Yoga, and Prisma.
+  - image: /img/lennex-zinyando.jpg
+    links:
+      - linkText: Lennex's Twitter
+        linkURL: "https://twitter.com/zinyando"
+    name: Lennex Zinyando
+    presentationTitle: Working Remotely
+    text: >-
+      Lennex is going to talk about getting remote jobs
   - image: /img/prosper-otemuyiwa.jpg
     links:
       - linkText: Prosper's Twitter
