@@ -27,7 +27,7 @@ Find out more about forloopZimbabwe on Twitter:
 <br>
 <br>
   <strong><a href="https://twitter.com/forloopZimbabwe">@forloopZimbabwe </a> I  </strong>
-  <strong><a href="https://twitter.com/search?q=%23forloopZimbabwe&src=typd">#forLoopZimbabwe</a></strong>
+  <strong><a href="https://twitter.com/search?q=%23forloopZimbabwe&src=typd">#forloopZimbabwe</a></strong>
 </div>
 
 
