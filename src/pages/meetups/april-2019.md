@@ -15,9 +15,9 @@ presenters:
       - linkText: Prosper's Twitter
         linkURL: "https://twitter.com/unicodeveloper"
     name: Prosper Otemuyiwa
-    presentationTitle: Cheating the Developer Experience
+    presentationTitle: Engineering Faster Web Experiences in Plain Sight
     text: >-
-      Cheating the Developer Experience
+      Millennials are impatient. Global Warming is here. Folks are heated up. Your web site or app should be delightful & insanely fast       to serve users their daily bread. In this talk, you'll walk away with instant todo rules and optimal strategies to build fast           loading web experiences for users from every region. 
   - image: /img/christian-nwamba.jpg
     links:
       - linkText: Christian's Twitter
