@@ -48,7 +48,7 @@ presenters:
       Finding a good job is hard and finding a remote job seems near impossible.
       In this talk, Lennex will be giving pointers on how to make the job
       hunting process less painful while also making yourself a better developer
-      that get job offers.
+      that gets job offers.
 location:
   mapsLatitude: -17.8160329
   mapsLink: 'https://goo.gl/maps/ExGpRJHYFkw'
