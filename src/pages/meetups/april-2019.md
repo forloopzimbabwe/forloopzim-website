@@ -27,7 +27,7 @@ presenters:
       everyday, how do you keep up and become even a better developer?
   - image: /img/bright-mukorera.png
     links:
-      - linkText: Twitter
+      - linkText: Brighton's Twitter
         linkURL: 'https://twitter.com/bmukorera'
     name: Brighton Mukorera
     presentationTitle: From the old to blockchain
@@ -36,6 +36,19 @@ presenters:
       becoming a blockchain developer and using those skills to build solutions
       that take advantage of the new technology. Brighton's use case will be of
       Hyper Ledger and BigChainDB.
+  - image: /img/lennex-zinyando.jpg
+    links:
+      - linkText: Lennex's Twitter
+        linkURL: 'https://twitter.com/zinyando'
+      - linkText: Lennex's GitHub
+        linkURL: 'https://github.com/zinyando'
+    name: Lennex Zinyando
+    presentationTitle: 'Remote Possible: How to work from the jungle'
+    text: >-
+      Finding a good job is hard and finding a remote job seems near impossible.
+      In this talk, Lennex will be giving pointers on how to make the job
+      hunting process less painful while also making yourself a better developer
+      that get job offers.
 location:
   mapsLatitude: -17.8160329
   mapsLink: 'https://goo.gl/maps/ExGpRJHYFkw'
