@@ -60,6 +60,19 @@ presenters:
       years".Every activity we do now leaves a trail of information.Now, imagine
       a million people in the world doing the exact thing...Do you see a pattern
       there?If not then let Hannah enlighten you. 
+  - image: /img/shingirai-marandure.jpg
+    links:
+      - linkText: Shingirai's Twitter
+        linkURL: 'https://twitter.com/lassie034'
+    name: Shingirai Marandure
+    presentationTitle: Tech collabo
+    text: >-
+      A highly interactive session divided into three main pillars; 
+      Acknowledgement of developers who are doing amazing locally. 
+
+      Encouragement of collaboration on projects among developers. 
+
+      A call for increased and improved participation of women in tech.
 location:
   mapsLatitude: -17.8160329
   mapsLink: 'https://goo.gl/maps/ExGpRJHYFkw'
