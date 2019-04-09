@@ -49,6 +49,17 @@ presenters:
       In this talk, Lennex will be giving pointers on how to make the job
       hunting process less painful while also making yourself a better developer
       that gets job offers.
+  - image: /img/hannah-madzinga.jpg
+    links:
+      - linkText: Hannah's Twitter
+        linkURL: 'https://twitter.com/HannahNMadzinga'
+    name: Hannah Madzinga
+    presentationTitle: Putting data to good use.
+    text: >-
+      "Ninety percent of the data in the world today was created in the last two
+      years".Every activity we do now leaves a trail of information.Now, imagine
+      a million people in the world doing the exact thing...Do you see a pattern
+      there?If not then let Hannah enlighten you. 
 location:
   mapsLatitude: -17.8160329
   mapsLink: 'https://goo.gl/maps/ExGpRJHYFkw'
