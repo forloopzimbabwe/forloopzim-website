@@ -7,10 +7,10 @@ mainImage:
 gallery:
   - image: /img/forloopzim-launch-82-.jpg
     imageAlt: Hannah-Madzinga talk
-  - image: /img/jakob-dalbjorn-730178-unsplash.jpg
-    imageAlt: A developer presenting at a meetup.
-  - image: /img/annie-spratt-608001-unsplash.jpg
-    imageAlt: Developers working together at a table.
+  - image: /img/forloopzim-launch-320-.jpg
+    imageAlt: forloopZimbabwe Launch Event Speakers and Organisers
+  - image: /img/forloopzim-launch-188-.jpg
+    imageAlt: Developers having lunch at forloopZimbabwe
 developerGroups: '## Other Zimbabwean Tech Communities'
 organizers:
   title: Organizers
