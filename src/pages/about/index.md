@@ -2,18 +2,16 @@
 templateKey: about-page
 title: forloopZimbabwe
 mainImage:
-  image: /img/teemu-paananen-376238-unsplash.jpg
-  imageAlt: A developer presenting at a meetup.
+  image: /img/forloopzim-launch-4-.jpg
+  imageAlt: forloopZimbabwe Launch Event - 13 April 2019
 gallery:
-  - image: /img/neonbrand-509131-unsplash.jpg
-    imageAlt: A developer presenting at a meetup.
+  - image: /img/forloopzim-launch-82-.jpg
+    imageAlt: Hannah-Madzinga talk
   - image: /img/jakob-dalbjorn-730178-unsplash.jpg
     imageAlt: A developer presenting at a meetup.
   - image: /img/annie-spratt-608001-unsplash.jpg
     imageAlt: Developers working together at a table.
-developerGroups: |-
-  ## Other Zimbabwean Tech Communities
-
+developerGroups: '## Other Zimbabwean Tech Communities'
 organizers:
   title: Organizers
   gallery:
@@ -29,7 +27,8 @@ organizers:
 seo:
   browserTitle: About | forloopZimbabwe
   description: >-
-    forloopZimbabwe is a community of software developers and tech enhtusiasts from Zimbabwe.
+    forloopZimbabwe is a community of software developers and tech enhtusiasts
+    from Zimbabwe.
   title: About | forloopZimbabwe
 ---
 
