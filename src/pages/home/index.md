@@ -4,7 +4,7 @@ headerImage:
   image: /img/flzim_nocolor.png
   imageAlt: forloopZimbabwe
 title: A community of developers and tech enthusiasts in Zimbabwe
-upcomingMeetupHeading: Upcoming Meetup - forloopZimbabwe Launch Event 2019
+upcomingMeetupHeading: Upcoming Meetup - forloopZimbabwe
 noUpcomingMeetupText: Details to be announced.
 mapsNote: Clicking the pin opens Google Maps in a new tab.
 callToActions:
@@ -16,11 +16,15 @@ callToActions:
   secondCTA:
     heading: Collaborate with us
     linkType: external
-    linkURL: "mailto:forloopzw@gmail.com"
-    subHeading: Want to partner with us? We are open to any brilliant ideas             you might have. Email us.
+    linkURL: 'mailto:forloopzw@gmail.com'
+    subHeading: >-
+      Want to partner with us? We are open to any brilliant ideas            
+      you might have. Email us.
 seo:
   browserTitle: forloopZimbabwe
   description: >-
-    A community of software developers and tech enthusisiasts in Zimbabwe powered by forloopAfrica
+    A community of software developers and tech enthusisiasts in Zimbabwe
+    powered by forloopAfrica
   title: forloopZimbabwe
 ---
+
