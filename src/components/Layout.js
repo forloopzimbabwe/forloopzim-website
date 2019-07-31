@@ -22,9 +22,9 @@ const TemplateWrapper = ({
     </Helmet>
     <div className="header-banner">
       <p>
-        Do you want to speak at forloopZimbabwe?{" "}
+        Do you want to speak at the forloopZimbabwe Meetup - Bulawayo Chapter?{" "}
         <a
-          href="https://goo.gl/forms/TKdoprynQ0NfBwEm1"
+          href="https://forms.gle/fHY8KSMZF2Cdm8X16"
           target="_blank"
           rel="noopener noreferrer"
         >
