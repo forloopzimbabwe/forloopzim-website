@@ -39,6 +39,12 @@ module.exports = {
         logo: "./src/img/favicon.png"
       }
     },
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "UA-144955296-1",
+      },
+    },
     "gatsby-plugin-netlify" // make sure to keep it last in the array
   ]
 };
