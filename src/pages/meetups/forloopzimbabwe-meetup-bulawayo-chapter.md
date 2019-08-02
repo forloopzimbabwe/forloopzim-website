@@ -2,7 +2,17 @@
 templateKey: meetup
 title: forloopZimbabwe Meetup - Bulawayo Chapter
 date: 2019-08-17T07:00:56.370Z
-presenters: []
+presenters:
+  - image: /img/main_banner.png
+    name: forloopZimbabwe
+    presentationTitle: Meet | Share | Collaborate
+    text: >-
+      forloopZimbabwe is a community of software developers and tech enthusiasts
+      from Zimbabwe. We meet in borrowed spaces, graciously provided by
+      different companies and organisations. Our purpose is to provide a place
+      where our members have a good time talking about programming, sharing
+      their knowledge, meeting other passionate folks and helping each other
+      grow in the field. We keep it friendly, inclusive and positive.
 location:
   mapsLatitude: -20.1589298
   mapsLink: >-
