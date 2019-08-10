@@ -49,6 +49,7 @@ This was built using Gatsby V2 and Netlify CMS.
 
 ```
 $ git clone git@github.com:forloopzimbabwe/forloopzim-website.git
+=======
 $ cd forloopzim-website
 $ yarn
 $ yarn develop
