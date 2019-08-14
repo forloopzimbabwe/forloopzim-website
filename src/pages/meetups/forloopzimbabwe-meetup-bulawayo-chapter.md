@@ -13,6 +13,19 @@ presenters:
       A look into how to apply caching to both frontend and backend applications
       to improve performance. This talk will include Service Workers for
       Progressive Web Applications and Redis for server side applications.
+  - image: /img/wadzanayi-removebg-preview.png
+    links:
+      - linkText: Kim's Website
+        linkURL: 'http://wadzanayi.co.zw/'
+      - linkText: Follow Kim on Twitter
+        linkURL: 'https://twitter.com/WadzanayiKim'
+    name: Kim Wadzanayi Bwanya
+    presentationTitle: The art of making useful products
+    text: >-
+      Kim will discuss on an approach to problem solving, commonly used in
+      design and management frameworks that develops solutions to problems by
+      involving the human perspective in all steps of the problem-solving
+      process.
 location:
   mapsLatitude: -20.1589298
   mapsLink: >-
