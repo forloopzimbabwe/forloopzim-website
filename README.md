@@ -68,5 +68,7 @@ For details on how to configure the CMS, take a look at the [Netlify CMS Docs](h
 
 ## Useful Resources
 
+- [Gatsby & Netlify CMS Example](https://github.com/robertcoopercode/gatsby-netlify-cms)
+
 - ["Official" Gatsby and Netlify CMS starter](https://github.com/netlify-templates/gatsby-starter-netlify-cms)
   This starter includes a blog built with Gatsby and Netlify CMS. It was actually used as the starting off point for this repository.
