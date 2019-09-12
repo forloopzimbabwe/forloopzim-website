@@ -1,7 +1,7 @@
 ---
 templateKey: meetup
 title: forloopZimbabwe Meetup - Bulawayo Chapter
-date: 2019-08-17T07:00:56.370Z
+date: 2019-09-21T07:00:56.370Z
 presenters:
   - image: /img/bakani-removebg-preview.png
     links:
@@ -26,6 +26,18 @@ presenters:
       design and management frameworks that develops solutions to problems by
       involving the human perspective in all steps of the problem-solving
       process.
+  - image: /img/michael-removebg-preview.png
+    links:
+      - linkText: Michael's GitHub
+        linkURL: 'https://github.com/michaeldera'
+      - linkText: Follow Michael on Twitter
+        linkURL: 'https://twitter.com/michaeldera'
+    name: Michael Dera
+    presentationTitle: 'An Introduction to Git, GitHub and Open Source Software.'
+    text: >-
+      Michael's talk will give an introduction to Git and GitHub and the
+      benefits of version control and the beauty of working on Open Source
+      Software.
 location:
   mapsLatitude: -20.1589298
   mapsLink: >-
