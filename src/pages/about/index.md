@@ -11,7 +11,21 @@ gallery:
     imageAlt: forloopZimbabwe Launch Event Speakers and Organisers
   - image: /img/forloopzim-launch-188-.jpg
     imageAlt: Developers having lunch at forloopZimbabwe
-developerGroups: '## Other Zimbabwean Tech Communities'
+developerGroups: >-
+  ## Other Zimbabwean Tech Communities
+
+
+  * _\*\*_[**Google Developer Groups
+  Harare**](https://twitter.com/gdgharare)\*\*    
+
+  * **\*\***[**Google Developer Student Clubs -
+  HIT**](https://twitter.com/dschit2019)\*\*    
+
+  * **\*\***[**Facebook Developer Circles -
+  Harare**](https://www.facebook.com/groups/DevCHarare/)\*\*    
+
+  * **\*\***[**WordPress
+  Harare**](https://www.meetup.com/Harare-WordPress-Meetup/)\*\*
 organizers:
   title: Organizers
   gallery:
