@@ -4,7 +4,7 @@ headerImage:
   image: /img/flzim_nocolor.png
   imageAlt: forloopZimbabwe
 title: A community of developers and tech enthusiasts in Zimbabwe
-upcomingMeetupHeading: Upcoming Meetup - forloopZimbabwe Bulawayo Chapter
+upcomingMeetupHeading: Upcoming Meetup - forloopZimbabwe
 noUpcomingMeetupText: Details to be announced.
 mapsNote: Clicking the pin opens Google Maps in a new tab.
 callToActions:
